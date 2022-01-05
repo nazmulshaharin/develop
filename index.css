@@ -61,3 +61,6 @@ h2 {
   border-image: linear-gradient(red, yellow);
   border-image-slice: 1;
 }
+footer p {
+  text-align: center;
+}
